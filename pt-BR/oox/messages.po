@@ -45,12 +45,12 @@ msgstr "_Cancelar"
 #. MRCkv
 msgctxt "stock"
 msgid "_Close"
-msgstr "Fe_char"
+msgstr "_Fechar"
 
 #. nvx5t
 msgctxt "stock"
 msgid "_Delete"
-msgstr "E_xcluir"
+msgstr "_Excluir"
 
 #. YspCj
 msgctxt "stock"
@@ -60,7 +60,7 @@ msgstr "_Editar"
 #. imQxr
 msgctxt "stock"
 msgid "_Help"
-msgstr "Aj_uda"
+msgstr "_Ajuda"
 
 #. RbjyB
 msgctxt "stock"
